@@ -1,0 +1,30 @@
+C:\Users\Ryan\Documents\CIT 195\Week 10\TBQuestGameRHV3-master\TBQuestGameRHS4\bin\Debug\TBQuestGameRHS4.exe.config
+C:\Users\Ryan\Documents\CIT 195\Week 10\TBQuestGameRHV3-master\TBQuestGameRHS4\bin\Debug\TBQuestGameRHS4.exe
+C:\Users\Ryan\Documents\CIT 195\Week 10\TBQuestGameRHV3-master\TBQuestGameRHS4\bin\Debug\TBQuestGameRHS4.pdb
+C:\Users\Ryan\Documents\CIT 195\Week 10\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\TBQuestGameRHS4.csprojAssemblyReference.cache
+C:\Users\Ryan\Documents\CIT 195\Week 10\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\PresentationLayer\GameSessionView.g.cs
+C:\Users\Ryan\Documents\CIT 195\Week 10\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\App.g.cs
+C:\Users\Ryan\Documents\CIT 195\Week 10\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\TBQuestGameRHS4_MarkupCompile.cache
+C:\Users\Ryan\Documents\CIT 195\Week 10\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\TBQuestGameRHS4_MarkupCompile.lref
+C:\Users\Ryan\Documents\CIT 195\Week 10\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\PresentationLayer\GameSessionView.baml
+C:\Users\Ryan\Documents\CIT 195\Week 10\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\TBQuestGameRHS4.g.resources
+C:\Users\Ryan\Documents\CIT 195\Week 10\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\TBQuestGameRHS4.Properties.Resources.resources
+C:\Users\Ryan\Documents\CIT 195\Week 10\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\TBQuestGameRHS4.csproj.GenerateResource.cache
+C:\Users\Ryan\Documents\CIT 195\Week 10\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\TBQuestGameRHS4.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\CIT 195\Week 10\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\TBQuestGameRHS4.exe
+C:\Users\Ryan\Documents\CIT 195\Week 10\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\TBQuestGameRHS4.pdb
+F:\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\TBQuestGameRHS4.csprojAssemblyReference.cache
+F:\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\PresentationLayer\GameSessionView.g.cs
+F:\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\App.g.cs
+F:\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\TBQuestGameRHS4_MarkupCompile.cache
+F:\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\TBQuestGameRHS4_MarkupCompile.lref
+F:\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\TBQuestGameRHS4.exe
+F:\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\TBQuestGameRHS4.pdb
+F:\TBQuestGameRHV3-master\TBQuestGameRHS4\bin\Debug\TBQuestGameRHS4.exe.config
+F:\TBQuestGameRHV3-master\TBQuestGameRHS4\bin\Debug\TBQuestGameRHS4.exe
+F:\TBQuestGameRHV3-master\TBQuestGameRHS4\bin\Debug\TBQuestGameRHS4.pdb
+F:\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\PresentationLayer\GameSessionView.baml
+F:\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\TBQuestGameRHS4.g.resources
+F:\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\TBQuestGameRHS4.Properties.Resources.resources
+F:\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\TBQuestGameRHS4.csproj.GenerateResource.cache
+F:\TBQuestGameRHV3-master\TBQuestGameRHS4\obj\Debug\TBQuestGameRHS4.csproj.CoreCompileInputs.cache
